@@ -46,3 +46,6 @@ def calculadora():
                 print(item)
         else:
             print("operação não suportada")
+
+# Executa a calculadora
+calculadora()
